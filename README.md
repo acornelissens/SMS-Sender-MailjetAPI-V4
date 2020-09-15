@@ -2,7 +2,7 @@
 
 <h1>Parameters</h1>
 <ul>
-	<li>Rename config_exmaple.php to config.php</li>
+	<li>Rename config_example.php to config.php</li>
 	<li>Change your Mailjets Parameters un config.php</li>
 	<li>Add your phone numbers in numeros.txt</li>
 	<li>Test With debug at true</li>
